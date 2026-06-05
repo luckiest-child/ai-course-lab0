@@ -1,0 +1,13 @@
+PS C:\Users\hp\Documents\Introduction to AI\intro-ai> & c:/Users/hp/ai_labs/ai_env/Scripts/python.exe "c:/Users/hp/Documents/Introduction to AI/intro-ai/environment_test.py"
+==================================================
+LAB 0: ENVIRONMENT VERIFICATION
+==================================================
+✅ Python Version: 3.13.1
+✅ OS: Windows 11
+✅ NumPy: 2.4.6
+✅ Pandas: 3.0.3
+✅ Matplotlib: 3.10.9
+✅ Seaborn: 0.13.2
+✅ Virtual Environment: Active (C:\Users\hp\ai_labs\ai_env)
+==================================================
+PS C:\Users\hp\Documents\Introduction to AI\intro-ai> 
